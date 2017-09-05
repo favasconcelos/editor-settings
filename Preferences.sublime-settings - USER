@@ -1,0 +1,30 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignore_vcs_packages": true,
+	"ignored_packages":
+	[
+		"CSS",
+		"JavaScript",
+		"Vintage"
+	],
+	"preview_on_click": false,
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"theme": "Seti_orig.sublime-theme",
+	"tab_size": 4,
+	"detect_indentation": false,
+	"translate_tabs_to_spaces": true,
+	"ui_big_tabs": true,
+	"ui_fix_tab_labels": true,
+	"ui_font_size_small": true,
+	"ui_font_source_code_pro": true,
+	"ui_separator": true,
+	"ui_wide_scrollbars": true
+}
