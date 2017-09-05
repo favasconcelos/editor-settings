@@ -1,2 +1,2 @@
-# sublime-configs
-My personal sublime configs.
+# sublime-settings
+My personal sublime settings.
