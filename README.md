@@ -1,2 +1,2 @@
-# sublime-settings
-My personal sublime settings.
+# editor-settings
+My personal editor (sublime, visual studio) settings.
