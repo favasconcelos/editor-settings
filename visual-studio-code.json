@@ -8,5 +8,6 @@
     "editor.formatOnSave": true,
     "editor.scrollBeyondLastLine": false,
     "editor.smoothScrolling": true,
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "all",
+    "workbench.colorTheme": "Oceanic Next Italic"
 }
